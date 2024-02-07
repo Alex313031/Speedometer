@@ -368,7 +368,7 @@ button.show-about {
     left: 60px;
     right: 60px;
     height: 12px;
-    color: var(--inactive-color);
+    color: var(--foreground);
     text-align: center;
     font-size: 12px;
 }
